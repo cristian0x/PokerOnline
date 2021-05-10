@@ -1,0 +1,5 @@
+admin:10000
+admin1:10000
+admin2:10000
+admin3:10000
+admin4:10000
